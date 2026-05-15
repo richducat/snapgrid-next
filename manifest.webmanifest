@@ -1,7 +1,7 @@
 {
   "name": "Snapgrid Remix",
   "short_name": "Snapgrid",
-  "description": "A fast combo block puzzle rebuilt from the Snapgrid prototype.",
+  "description": "A fast combo block puzzle with quick runs, line clears, Color Crush saves, and Blitz clears.",
   "start_url": "/play/",
   "scope": "/",
   "display": "standalone",
