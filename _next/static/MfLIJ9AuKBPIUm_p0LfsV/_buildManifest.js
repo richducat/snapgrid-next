@@ -1,18 +1,21 @@
 self.__BUILD_MANIFEST = {
   "/": [
-    "static/chunks/0.eujdlbam~w-.js"
+    "static/chunks/0ew4a_o1191x3.js"
   ],
   "/_error": [
     "static/chunks/0lpktz1ew23ss.js"
   ],
   "/app-store/combo": [
-    "static/chunks/0psjcbzv1pxoz.js"
+    "static/chunks/0llnqx320ajc..js"
   ],
   "/app-store/offline": [
-    "static/chunks/01qta.tmf.5p1.js"
+    "static/chunks/0z4wx7wxwsxwy.js"
   ],
   "/app-store/premium": [
-    "static/chunks/0cuw2lo~5fumj.js"
+    "static/chunks/1554gfui~1lqa.js"
+  ],
+  "/app-store/quick": [
+    "static/chunks/05l73fc3_j0w8.js"
   ],
   "/play": [
     "static/chunks/0b9xb~f5-dy1p.js"
@@ -38,6 +41,7 @@ self.__BUILD_MANIFEST = {
     "/app-store/combo",
     "/app-store/offline",
     "/app-store/premium",
+    "/app-store/quick",
     "/play",
     "/privacy",
     "/support",
