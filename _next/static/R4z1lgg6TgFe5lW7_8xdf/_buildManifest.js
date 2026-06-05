@@ -1,21 +1,21 @@
 self.__BUILD_MANIFEST = {
   "/": [
-    "static/chunks/0ew4a_o1191x3.js"
+    "static/chunks/177svbtq4sxwo.js"
   ],
   "/_error": [
     "static/chunks/0lpktz1ew23ss.js"
   ],
   "/app-store/combo": [
-    "static/chunks/0llnqx320ajc..js"
+    "static/chunks/0hpckak93qnrz.js"
   ],
   "/app-store/offline": [
-    "static/chunks/0z4wx7wxwsxwy.js"
+    "static/chunks/0avb~r5x.pws1.js"
   ],
   "/app-store/premium": [
-    "static/chunks/1554gfui~1lqa.js"
+    "static/chunks/0kry-p85eaqcq.js"
   ],
   "/app-store/quick": [
-    "static/chunks/05l73fc3_j0w8.js"
+    "static/chunks/0c~y3z0nra~w4.js"
   ],
   "/play": [
     "static/chunks/0b9xb~f5-dy1p.js"
