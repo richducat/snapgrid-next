@@ -17,17 +17,20 @@ self.__BUILD_MANIFEST = {
   "/app-store/quick": [
     "static/chunks/0vnwdwsu9-.0q.js"
   ],
+  "/delete-data": [
+    "static/chunks/0diwg0d67fbfw.js"
+  ],
   "/play": [
-    "static/chunks/0b9xb~f5-dy1p.js"
+    "static/chunks/044qmcz6jjt2h.js"
   ],
   "/privacy": [
-    "static/chunks/0yxci6szggki2.js"
+    "static/chunks/0g1m2tmni455a.js"
   ],
   "/support": [
-    "static/chunks/10jxj-or.toi3.js"
+    "static/chunks/015csklxn1hfy.js"
   ],
   "/terms": [
-    "static/chunks/0pmnfq~6t823v.js"
+    "static/chunks/13ewmzj1d1qj2.js"
   ],
   "__rewrites": {
     "afterFiles": [],
@@ -42,6 +45,7 @@ self.__BUILD_MANIFEST = {
     "/app-store/offline",
     "/app-store/premium",
     "/app-store/quick",
+    "/delete-data",
     "/play",
     "/privacy",
     "/support",

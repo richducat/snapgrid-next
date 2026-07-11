@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.richducat.snapgridsolana",
+      "sha256_cert_fingerprints": [
+        "D9:51:26:5A:39:60:2A:90:1B:54:4E:EA:D1:85:F4:39:BB:78:20:D8:8C:8D:5E:FD:5C:10:72:E7:3F:A0:6B:8E"
+      ]
+    }
+  }
+]
